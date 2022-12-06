@@ -1,8 +1,8 @@
 h6 {
-    display: inline;
+  display: inline;
 }
 html {
-    background: url("mac.jpg") no-repeat center center fixed; 
+  background: url('mac.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -11,41 +11,41 @@ html {
   font-family: 'Roboto Mono', monospace;
 }
 h1 {
-    font-size: 50px;
-    margin-bottom: 0px;
-    font-weight: normal;
+  font-size: 50px;
+  margin-bottom: 0px;
+  font-weight: normal;
 }
 h2 {
-    font-size: 18px;
-    margin-top: 0px;
+  font-size: 18px;
+  margin-top: 0px;
 }
 p {
-    font-size: 15px;
+  font-size: 15px;
 }
 img.me {
-    height: 150px;
-    border-radius: 100%;
-    border-style: solid;
-    border-color: white;
-    margin-bottom: 10px;
+  height: 150px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: white;
+  margin-bottom: 10px;
 }
 #wrapper {
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    border: 40px;
-    text-align: center;
-    font-size: 14px;
-    margin-top: 50px;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 40px;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 50px;
 }
 .line {
-    width: 50px;
-    height: 3px;
-    background: #cccccc;
-    border: none;
+  width: 50px;
+  height: 3px;
+  background: #cccccc;
+  border: none;
 }
 
 .display {
-    display: inline-block;
-    color: white;
+  display: inline-block;
+  color: white;
 }

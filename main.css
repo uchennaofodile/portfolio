@@ -22,13 +22,13 @@ h2 {
 p {
   font-size: 15px;
 }
-img.me {
+/* img.me {
   height: 150px;
   border-radius: 100%;
   border-style: solid;
   border-color: white;
   margin-bottom: 10px;
-}
+} */
 #wrapper {
   width: 700px;
   margin-left: auto;
